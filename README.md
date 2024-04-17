@@ -5,7 +5,7 @@
  - Projeto construído com base em um tutorial do Youtube
 
 ## Acesso
- [Clique aqui para acessar! :)](https://vercel.com/graziellys-projects/cafeanimado/GmMLbMn4dBXUHQYd9QT1dLWLNLYQ)
+ [Clique aqui para acessar! :)](https://cafeanimado-git-main-graziellys-projects.vercel.app/)
 
 ## Tecnologias
 
